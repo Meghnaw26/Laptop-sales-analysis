@@ -154,6 +154,22 @@ Razer’s success suggests that premium gaming laptops with top-tier specs, exce
 
 
 
+## Dashboard Screenshot
+
+<img width="1914" height="991" alt="Image" src="https://github.com/user-attachments/assets/9a86f950-655c-4a59-a37b-502997cc5c8b" />
+
+
+
+<img width="1907" height="996" alt="Image" src="https://github.com/user-attachments/assets/e02d5b69-8adf-4e2e-a734-dbae8973b0dd" />
+
+
+
+<img width="1915" height="993" alt="Image" src="https://github.com/user-attachments/assets/729b6608-f847-4fff-a329-c9bf9a1b8d3b" />
+
+[🔗 View Interactive Tableau Dashboard](https://public.tableau.com/views/LaptopAnalysisDashboard_17606976955990/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+
 
 
 
